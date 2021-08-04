@@ -1,0 +1,15 @@
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\obj\Debug\net5.0\TrendTex.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\obj\Debug\net5.0\TrendTex.Repository.AssemblyInfoInputs.cache
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\obj\Debug\net5.0\TrendTex.Repository.AssemblyInfo.cs
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\obj\Debug\net5.0\TrendTex.Repository.csproj.CoreCompileInputs.cache
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\bin\Debug\net5.0\TrendTex.Repository.deps.json
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\bin\Debug\net5.0\TrendTex.Repository.runtimeconfig.json
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\bin\Debug\net5.0\TrendTex.Repository.runtimeconfig.dev.json
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\bin\Debug\net5.0\TrendTex.Repository.dll
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\bin\Debug\net5.0\ref\TrendTex.Repository.dll
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\bin\Debug\net5.0\TrendTex.Repository.pdb
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\obj\Debug\net5.0\TrendTex.Repository.dll
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\obj\Debug\net5.0\ref\TrendTex.Repository.dll
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\obj\Debug\net5.0\TrendTex.Repository.pdb
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\obj\Debug\net5.0\TrendTex.Repository.genruntimeconfig.cache
+D:\SoftUni\TrendTexErpAndClient\TrendTex.Core\TrendTex.Repository\obj\Debug\net5.0\TrendTex.Repository.csprojAssemblyReference.cache
